@@ -12,7 +12,7 @@ getgenv().Config = {
     },
     ["Chat"] = {
         ["Enable"] = true, --// Enable Chat
-        ["Content"] = {"cf YTtraubloxfruit"} --// Content
+        ["Content"] = {"hoang dzvcl"} --// Content
     },
     ["Misc"] = {
         ["Hide If Low Health"] = true, --// Run
